@@ -3,3 +3,4 @@ User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
 Sitemap: https://logistics-two.vercel.app/sitemap.xml
+
